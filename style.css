@@ -1,0 +1,11 @@
+body {
+margin:0px;
+padding: 0px;
+}
+
+header{
+background-color:#252850;
+position:fixed;
+top: 50px;
+left: 50px;
+}
