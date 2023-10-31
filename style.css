@@ -13,4 +13,58 @@ right: 0px;
 
 h1{
 text-align:center;
+color:white;
 }
+
+nav {
+text-align:center;
+background-color:#251170;
+position: sticky;
+top: 0px;
+}
+
+a {
+color:white;
+}
+
+main {
+margin-top: 150px;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+#seccioUno, #seccioDos, #seccioTres {
+background-color:#B5B2B2;
+margin-left: 10px;
+margin-bottom: 10px;
+padding: 32px;
+margin-right: 10px;
+}
+
+h2 {
+margin-left: 10px;
+}
+
+footer {
+text-align:center;
+background-color:#252850;
+bottom: 0px;
+right: 0px;
+left: 0px;
+margin-top: 20px;
+padding:5px;
+}
+
+#txtFooter{
+color:white;
+font-size:10px
+}
+
+#paragrafoUno, #paragrafoDos, #paragrafoTres {
+color: white;
+margin-left: 10px;
+}
+
+
+
+
